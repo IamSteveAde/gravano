@@ -227,12 +227,18 @@ body{
   /* 80% { content: "WE ARE"; } */
   90% { content: "MEETS UNWIND."; }
 }
+#logs{
+  width: 160px;
+}
 
 @media (max-width: 600px){
   .ode{
     position: relative;
     left: 10px;
     height: 44rem;
+  }
+  #logs{
+    width: 100px;
   }
   .ode1{
     width: 350px;
