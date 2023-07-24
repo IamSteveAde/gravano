@@ -232,9 +232,10 @@ body{
   .ode{
     position: relative;
     left: 10px;
+    height: auto;
   }
   .ode1{
-    width: 25rem;
+    width: 100%;
 
   }
 }
