@@ -231,9 +231,10 @@ body{
 @media (max-width: 600px){
   .ode{
     position: relative;
-    left: 50px;
+    left: 10px;
   }
   .ode1{
     width: 25rem;
+
   }
 }
